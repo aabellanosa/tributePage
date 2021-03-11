@@ -44,7 +44,7 @@ a:visited {
   margin: 30px 8px;
   padding: 15px;
   border-radius: 5px;
-  background: #eee;
+  background: #cce8c1;
 }
 
 @media (max-width: 460px) {
@@ -61,7 +61,7 @@ img {
 }
 
 #img-div {
-  background: white;
+  background: #eee;
   padding: 10px;
   margin: 0;
 }
